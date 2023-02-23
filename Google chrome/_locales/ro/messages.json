@@ -1,49 +1,49 @@
 {
    "actionTitle": {
-      "message": "Опции"
+      "message": "Opțiuni"
    },
    "disabled": {
-      "message": "Неполноценный"
+      "message": "Dezactivat"
    },
    "displayActionCountAsBadgeText": {
       "description": "Boolean Option",
-      "message": "Показывать количество заблокированных запросов в значке"
+      "message": "Afișați numărul de solicitări blocate în insigna"
    },
    "displayVideoBranding": {
       "description": "Boolean Option",
-      "message": "Показать информацию о расширении под видео"
+      "message": "Afișați informațiile despre extensie mai jos videoclipul"
    },
    "dontAskAgain": {
-      "message": "Больше не спрашивай"
+      "message": "Nu mai întreba"
    },
    "enabled": {
-      "message": "Включено"
+      "message": "Activat"
    },
    "extensionDescription": {
       "description": "The description of the application",
-      "message": "Защита конфиденциальности, безопасный блокировщик рекламы для YouTube™. Блокирует рекламу на YouTube.com."
+      "message": "Adblock securizat și conștient de confidențialitate pentru YouTube™. Blochează reclamele pe YouTube.com."
    },
    "extensionName": {
       "description": "The name of the application",
-      "message": "Блокировщик рекламы для YouTube™ — best adblocker"
+      "message": "Adblock pentru YouTube™ — best adblocker"
    },
    "extensionShortName": {
       "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name.",
       "message": "Adb YouTube™"
    },
    "helpUsWithAReview": {
-      "message": "Помогите нам с обзором"
+      "message": "Ajutați-ne cu o recenzie"
    },
    "later": {
-      "message": "Позже"
+      "message": "Mai tarziu"
    },
    "recommend": {
       "description": "Shown by the recommend button",
-      "message": "Рекомендовать"
+      "message": "Recomanda"
    },
    "timesaveInfo": {
       "description": "Tells the user how many time he saved already.",
-      "message": "Adblock для Youtube™ сэкономил прибл. $savedTime$ вашей жизни.",
+      "message": "Adblock pentru Youtube™ salvat aprox. $savedTime$ din viața ta.",
       "placeholders": {
          "savedTime": {
             "content": "$1",
@@ -53,6 +53,6 @@
    },
    "videoBranding": {
       "description": "Shown below a video",
-      "message": "Очищено Adblock для YouTube™"
+      "message": "Curățat de Adblock pentru YouTube™"
    }
 }
